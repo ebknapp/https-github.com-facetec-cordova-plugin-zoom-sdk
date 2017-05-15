@@ -1,0 +1,17 @@
+framework module ZoomAuthentication {
+    header "ZoomAuthentication.h"
+    
+    explicit module Phoenix {
+        header "PhoenixIOS.h"
+    }
+    
+    explicit module RNCryptor {
+        header "RNCryptor.h"
+    }
+    
+}
+
+
+module ZoomAuthentication.Swift {
+    header "ZoomAuthentication-Swift.h"
+}

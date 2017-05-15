@@ -1,0 +1,60 @@
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "57C-Aw-77W"; */
+"57C-Aw-77W.normalTitle" = "";
+
+/* Class = "UIViewController"; title = "Fingerprint"; ObjectID = "8rJ-Kc-sve"; */
+"8rJ-Kc-sve.title" = "Fingerprint";
+
+/* Class = "UIViewController"; title = "Zoom"; ObjectID = "9pv-A4-QxB"; */
+"9pv-A4-QxB.title" = "Zoom";
+
+/* Class = "UILabel"; text = "enter your fingerprint"; ObjectID = "FOh-vs-Q88"; */
+"FOh-vs-Q88.text" = "enter your fingerprint";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "GbE-63-ams"; */
+"GbE-63-ams.normalTitle" = "";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "KPa-rj-dxZ"; */
+"KPa-rj-dxZ.normalTitle" = "";
+
+/* Class = "UITabBarItem"; title = "pin code"; ObjectID = "Mgp-Kc-eFJ"; */
+"Mgp-Kc-eFJ.title" = "pin code";
+
+/* Class = "UITabBarItem"; title = "PreEnroll"; ObjectID = "NNM-wD-hTM"; */
+"NNM-wD-hTM.title" = "PreEnroll";
+
+/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "RyV-My-wKM"; */
+"RyV-My-wKM.normalTitle" = "Delete";
+
+/* Class = "UILabel"; text = "enter your pin"; ObjectID = "VrI-mb-J8w"; */
+"VrI-mb-J8w.text" = "enter your pin";
+
+/* Class = "UIButton"; normalTitle = "Start Enrollment"; ObjectID = "WZw-KM-zSN"; */
+"WZw-KM-zSN.normalTitle" = "Start Enrollment";
+
+/* Class = "UITabBarItem"; title = "Zoom"; ObjectID = "acW-dT-cKf"; */
+"acW-dT-cKf.title" = "Zoom";
+
+/* Class = "UITabBarItem"; title = "fingerprint"; ObjectID = "cPa-gy-q4n"; */
+"cPa-gy-q4n.title" = "fingerprint";
+
+/* Class = "UITabBarItem"; title = "Success"; ObjectID = "gBT-dR-n3z"; */
+"gBT-dR-n3z.title" = "Success";
+
+/* Class = "UILabel"; text = "To setup Zoom login, we will capture your 3D facemap.\n\nJust center your face in the oval and zoom in when the oval expands."; ObjectID = "gMV-mh-Tts"; */
+"gMV-mh-Tts.text" = "To setup Zoom login, we will capture your 3D facemap.\n\nJust center your face in the oval and zoom in when the oval expands.";
+
+/* Class = "UIButton"; normalTitle = "X"; ObjectID = "hZ7-xA-bVp"; */
+"hZ7-xA-bVp.normalTitle" = "";
+
+/* Class = "UILabel"; text = "MOVE     AWAY"; ObjectID = "ldD-VY-nL4"; */
+"ldD-VY-nL4.text" = "MOVE     AWAY";
+
+/* Class = "UIViewController"; title = "Pin"; ObjectID = "tYD-jk-qp6"; */
+"tYD-jk-qp6.title" = "Pin";
+
+/* Class = "UILabel"; text = ""; ObjectID = "waJ-zq-C0S"; */
+"waJ-zq-C0S.text" = "";
+
+/* Class = "UILabel"; text = "enter your pin"; ObjectID = "zqs-yf-QMq"; */
+"zqs-yf-QMq.text" = "enter your pin";
