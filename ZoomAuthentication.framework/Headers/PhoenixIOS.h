@@ -52,7 +52,8 @@ typedef NS_ENUM(NSInteger, ZoomFaceFeedback) {
     FACE_ROTATED_TOO_FAR_LEFT,
     FACE_ROTATED_TOO_FAR_RIGHT,
     MOVE_PHONE_TO_EYE_LEVEL,
-    FACE_NOT_LOOKING_STRAIGHT_AHEAD
+    FACE_NOT_LOOKING_STRAIGHT_AHEAD,
+    USE_EVEN_LIGHTING
 };
 
 // specify ZoomSession mode for authentication or enrollment
@@ -147,6 +148,7 @@ extern "C" {
     PhoenixLivenessFeedback phoenix_retrieveEnrollmentLivenessResult();
     PhoenixMotionFeedback phoenix_retrieveCorrelatedMotionDetection();
     PhoenixGlassesStateFeedback phoenix_retrieveGlassesState();
+    void phoenix_setLowLightModeDetected();
     bool phoenix_retrieveSufficientLivenessDataWasCaptured();
 
     NSString* phoenix_retrieveBiometricPackage();

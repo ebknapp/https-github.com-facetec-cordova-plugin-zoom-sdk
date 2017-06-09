@@ -397,7 +397,7 @@ typedef SWIFT_ENUM(NSInteger, ZoomCameraPermissionStatus) {
 /// tabTextSuccessColor:UIColor         = UIColor(red:1.0, green:1.0, blue:1.0, alpha:1.0)
 /// tabBackgroundSuccessColor: UIColor  = UIColor.blackColor()
 ///
-/// fingerprintSuccesColor: UIColor                  = UIColor.greenColor()
+/// fingerprintSuccessColor: UIColor                  = UIColor.greenColor()
 ///
 ///
 /// \endcode
@@ -421,7 +421,7 @@ SWIFT_CLASS("_TtC18ZoomAuthentication17ZoomCustomization")
 @property (nonatomic, strong) UIColor * _Nonnull tabTextSelectedColor;
 @property (nonatomic, strong) UIColor * _Nonnull tabTextSuccessColor;
 @property (nonatomic, strong) UIColor * _Nonnull tabBackgroundSuccessColor;
-@property (nonatomic, strong) UIColor * _Nonnull fingerprintSuccesColor;
+@property (nonatomic, strong) UIColor * _Nonnull fingerprintSuccessColor;
 @property (nonatomic, strong) UIImage * _Nullable brandingLogo;
 @property (nonatomic, copy) NSString * _Nullable preEnrollScreenTitle;
 @property (nonatomic, copy) NSString * _Nullable preEnrollScreenSubtext;
