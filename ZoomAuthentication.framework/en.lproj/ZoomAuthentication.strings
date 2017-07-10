@@ -8,8 +8,6 @@
 /* Class = "UIViewController"; title = "Zoom"; ObjectID = "9pv-A4-QxB"; */
 "9pv-A4-QxB.title" = "Zoom";
 
-/* Class = "UILabel"; text = "enter your fingerprint"; ObjectID = "FOh-vs-Q88"; */
-"FOh-vs-Q88.text" = "enter your fingerprint";
 
 /* Class = "UIButton"; normalTitle = "X"; ObjectID = "GbE-63-ams"; */
 "GbE-63-ams.normalTitle" = "";
@@ -23,12 +21,6 @@
 /* Class = "UITabBarItem"; title = "PreEnroll"; ObjectID = "NNM-wD-hTM"; */
 "NNM-wD-hTM.title" = "PreEnroll";
 
-/* Class = "UIButton"; normalTitle = "Delete"; ObjectID = "RyV-My-wKM"; */
-"RyV-My-wKM.normalTitle" = "Delete";
-
-/* Class = "UILabel"; text = "enter your pin"; ObjectID = "VrI-mb-J8w"; */
-"VrI-mb-J8w.text" = "enter your pin";
-
 /* Class = "UIButton"; normalTitle = "Start Enrollment"; ObjectID = "WZw-KM-zSN"; */
 "WZw-KM-zSN.normalTitle" = "Start Enrollment";
 
@@ -41,20 +33,11 @@
 /* Class = "UITabBarItem"; title = "Success"; ObjectID = "gBT-dR-n3z"; */
 "gBT-dR-n3z.title" = "Success";
 
-/* Class = "UILabel"; text = "To setup Zoom login, we will capture your 3D facemap.\n\nJust center your face in the oval and zoom in when the oval expands."; ObjectID = "gMV-mh-Tts"; */
-"gMV-mh-Tts.text" = "To setup Zoom login, we will capture your 3D facemap.\n\nJust center your face in the oval and zoom in when the oval expands.";
-
 /* Class = "UIButton"; normalTitle = "X"; ObjectID = "hZ7-xA-bVp"; */
 "hZ7-xA-bVp.normalTitle" = "";
-
-/* Class = "UILabel"; text = "MOVE     AWAY"; ObjectID = "ldD-VY-nL4"; */
-"ldD-VY-nL4.text" = "MOVE     AWAY";
 
 /* Class = "UIViewController"; title = "Pin"; ObjectID = "tYD-jk-qp6"; */
 "tYD-jk-qp6.title" = "Pin";
 
 /* Class = "UILabel"; text = ""; ObjectID = "waJ-zq-C0S"; */
 "waJ-zq-C0S.text" = "";
-
-/* Class = "UILabel"; text = "enter your pin"; ObjectID = "zqs-yf-QMq"; */
-"zqs-yf-QMq.text" = "enter your pin";

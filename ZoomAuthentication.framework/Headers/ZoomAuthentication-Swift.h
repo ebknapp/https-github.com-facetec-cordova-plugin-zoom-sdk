@@ -295,8 +295,8 @@ SWIFT_CLASS("_TtC18ZoomAuthentication32ZoomAuthenticationViewController")
 
 
 @interface ZoomAuthenticationViewController (SWIFT_EXTENSION(ZoomAuthentication))
-- (void)prepareForAuthenticationWithDelegate:(id <ZoomAuthenticationDelegate> _Nonnull)delegate userID:(NSString * _Nonnull)userID applicationPerUserEncryptionSecret:(NSString * _Nonnull)applicationPerUserEncryptionSecret;
-- (void)prepareForAuthenticationWithDelegate:(id <ZoomAuthenticationDelegate> _Nonnull)delegate userID:(NSString * _Nonnull)userID applicationPerUserEncryptionSecret:(NSString * _Nonnull)applicationPerUserEncryptionSecret authenticationReason:(NSString * _Nullable)authenticationReason;
+- (ZoomAuthenticationViewController * _Nonnull)prepareForAuthenticationWithDelegate:(id <ZoomAuthenticationDelegate> _Nonnull)delegate userID:(NSString * _Nonnull)userID applicationPerUserEncryptionSecret:(NSString * _Nonnull)applicationPerUserEncryptionSecret;
+- (ZoomAuthenticationViewController * _Nonnull)prepareForAuthenticationWithDelegate:(id <ZoomAuthenticationDelegate> _Nonnull)delegate userID:(NSString * _Nonnull)userID applicationPerUserEncryptionSecret:(NSString * _Nonnull)applicationPerUserEncryptionSecret authenticationReason:(NSString * _Nullable)authenticationReason;
 @end
 
 
@@ -423,8 +423,6 @@ SWIFT_CLASS("_TtC18ZoomAuthentication17ZoomCustomization")
 @property (nonatomic, strong) UIColor * _Nonnull tabBackgroundSuccessColor;
 @property (nonatomic, strong) UIColor * _Nonnull fingerprintSuccessColor;
 @property (nonatomic, strong) UIImage * _Nullable brandingLogo;
-@property (nonatomic, copy) NSString * _Nullable preEnrollScreenTitle;
-@property (nonatomic, copy) NSString * _Nullable preEnrollScreenSubtext;
 - (nonnull instancetype)init;
 @end
 
@@ -528,7 +526,7 @@ SWIFT_CLASS("_TtC18ZoomAuthentication28ZoomEnrollmentViewController")
 
 
 @interface ZoomEnrollmentViewController (SWIFT_EXTENSION(ZoomAuthentication))
-- (void)prepareForEnrollmentWithDelegate:(id <ZoomEnrollmentDelegate> _Nonnull)delegate userID:(NSString * _Nonnull)userID applicationPerUserEncryptionSecret:(NSString * _Nonnull)applicationPerUserEncryptionSecret secret:(NSString * _Nullable)secret;
+- (ZoomEnrollmentViewController * _Nonnull)prepareForEnrollmentWithDelegate:(id <ZoomEnrollmentDelegate> _Nonnull)delegate userID:(NSString * _Nonnull)userID applicationPerUserEncryptionSecret:(NSString * _Nonnull)applicationPerUserEncryptionSecret secret:(NSString * _Nullable)secret;
 @end
 
 
